@@ -1,0 +1,126 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  background-color: #fff;
+  color: #333;
+}
+
+/* Header */
+.main-header {
+  background-color: #243746;
+  color: white;
+  padding: 30px 0;
+}
+
+.main-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.logo {
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 1px;
+}
+
+.event-info p {
+  margin: 0;
+  font-size: 14px;
+  color: #ccc;
+  text-align: right;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Intro section */
+.schedule-intro {
+  background: linear-gradient(to right, #bce0c5, #f3e6b8);
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.schedule-intro h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.schedule-intro p {
+  color: #555;
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 16px;
+}
+
+/* Schedule content */
+.schedule {
+  padding: 50px 0;
+}
+
+.schedule .container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.schedule h3 {
+  font-size: 22px;
+  color: #444;
+  margin-bottom: 0;
+}
+
+.schedule .date {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.session {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  padding: 15px 0;
+}
+
+.time {
+  width: 100px;
+  font-weight: bold;
+  color: #666;
+}
+
+.details {
+  flex: 1;
+  display: flex;
+  gap: 40px;
+}
+
+.workshop h4 {
+  color: #2e6da4;
+  margin: 0 0 5px;
+  font-size: 16px;
+}
+
+.workshop p {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+}
