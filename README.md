@@ -1,4 +1,4 @@
-# Akshay Titame | Portfolio Website
+# Akshay Titame | Profile Website
 
 This is a personal profile page for Akshay Titame, showcasing skills, projects, certifications, and contact information. The website is built using HTML, CSS, and JavaScript
 
@@ -16,9 +16,8 @@ Contact Section: Contact form with submission handling using JavaScript.
 
 HTML5
 CSS3
-JavaScript (Vanilla JS)
+JavaScript
 Google Fonts: Poppins
-Font Awesome Icons
 
 # Folder Structure
 
@@ -47,3 +46,4 @@ You can reach me through the contact form on the website or via:
 Email: titameakshay2001@gmail.com
 LinkedIn: https://www.linkedin.com/in/akshay-titame/
 GitHub: https://github.com/AkshayTitame
+Live page: https://akshaytitame.github.io/AssessmentProgram/
