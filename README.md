@@ -1,15 +1,49 @@
-# Web Playground day_04
+# Akshay Titame | Portfolio Website
 
-Learned VS Code basics, installed extensions (Prettier, Live Server, ESLint), and practiced Git workflow with commits, .gitignore, and repository setup.
- 
- # Personal Profile Page day_05
+This is a personal profile page for Akshay Titame, showcasing skills, projects, certifications, and contact information. The website is built using HTML, CSS, and JavaScript
 
-This is my personal profile page created using HTML and CSS to showcase my skills and learnings.  
-It includes sections for personal info, skills, education, and projects.  
-All code is hand-written without frameworks or JavaScript.  
-Code changes are committed to GitHub after each session with meaningful messages.  
+# Features
 
-#  My Profile Page day_06
+Responsive Design: Works on desktop and mobile devices.
+Hero Section: Introduction with profile image, social links, and resume download.
+About Section: Personal information, education, interests, and hobbies.
+Skills Section: Technical skills displayed with animated progress bars.
+Certifications Section: Timeline of trainings and certifications.
+Projects Section: Highlights of projects with tech stack and description.
+Contact Section: Contact form with submission handling using JavaScript.
 
-A personal profile page built using **HTML & CSS only**, showcasing my skills, experience, and projects.  
-Features: header, profile, skills, experience, projects, contact form, and footer.   
+# Technologies Used
+
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+Google Fonts: Poppins
+Font Awesome Icons
+
+# Folder Structure
+
+Assessment program/
+│
+├── index.html # Main HTML file
+├── style.css # CSS styling
+├── script.js # JavaScript functionality
+└── README.md # Project documentation
+├── assets/ # folder for images, icons, videos
+│ ├── images/
+│ │ └── image.jpg
+│ └── resume/
+│ └── Akshay_Titame_Resume.pdf
+
+# How to Run
+
+Clone the repository:
+git clone <https://github.com/AkshayTitame/AssessmentProgram.git>
+Open the index.html file in your browser.
+Test the contact form by filling in the fields and submitting.
+
+# Contact
+
+You can reach me through the contact form on the website or via:
+Email: titameakshay2001@gmail.com
+LinkedIn: https://www.linkedin.com/in/akshay-titame/
+GitHub: https://github.com/AkshayTitame
